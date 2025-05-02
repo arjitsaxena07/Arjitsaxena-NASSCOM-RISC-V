@@ -5,4 +5,6 @@
 *Summary* 
 In this first lecture, I’ve begun exploring the most fundamental part of any digital system—logic gates. These gates are the basic building blocks of digital electronics and perform Boolean operations like AND, OR, and NOT. Even though they look simple at first, they form the foundation of everything from simple decision-making circuits to the complex ALUs and control logic inside modern processors.
 
-![https://images.app.goo.gl/h6Pa1QX32HegUNoP7] 
+![image](https://github.com/user-attachments/assets/885719df-15d2-471d-bc01-898f842466bf)
+
+
