@@ -138,5 +138,6 @@ In short: Validity = correctness + relevance of measurement or operation.
 ![image](https://github.com/user-attachments/assets/11561a3b-781f-47a7-bd42-eb81eab7e4a4)
 
 # Calulator Single Value Memory Lab
-![image](https://github.com/user-attachments/assets/c61a6d22-1c81-4985-9509-c5774ef88f1e)
+![image](https://github.com/user-attachments/assets/dd790b32-47de-4276-8d5a-eed9b08601cd)
+
 
